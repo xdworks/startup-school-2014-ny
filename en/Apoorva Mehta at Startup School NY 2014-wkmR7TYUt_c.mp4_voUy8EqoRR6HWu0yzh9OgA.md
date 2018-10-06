@@ -25,7 +25,7 @@ We\'ve been around for two years now and we have raised over 55 million
 dollars in financing. And today we\'re doing over hundreds of thousands
 of dollars in revenue every single day. Today I would like to share with
 you the story of Instacart. Hopefully there are some lessons here that
-could be useful to you in your journey. The story of Finster card begins
+could be useful to you in your journey. The story of Instacart begins
 two years before I started the company I used to live in Seattle and I
 worked at Amazona at the time and I always wanted to start a company but
 it wasn\'t until January of 2010 when this became serious. I realized
@@ -181,7 +181,7 @@ minutes and I was able to calm her down and I told her I was going to
 meet up with her. And then we\'re gonna do this order together. So
 that\'s what we did we had to clear out three Safeway\'s yards of
 fairways here to find those drinks. This is actually us packing the
-cards. The trunk is already full at this point. So this is the back seat
+carts. The trunk is already full at this point. So this is the back seat
 of the car. And then finally we get to Y Combinator and we unload all
 these all these bottles and then we go to Rene who would coordinated the
 dinner and ordered these drinks to let her know that hey we made the
@@ -258,7 +258,7 @@ time so definitely by no means is it a rocket ship.
 our approach towards unscalable unscalable doing things did not change
 and only thing that mattered to us was how fast we were growing and how
 fast we were executing. One example of this was when we decided to add
-Trader Joes to Instacarts offering when we had a store and store card.
+Trader Joes to Instacarts offering when we had a store and store cart.
 The first thing we have to do is find the items that are available in
 the store and get that catalog and put them to Instacart dot com or
 tabs. Now there was no API or website which had the item catalog for it
