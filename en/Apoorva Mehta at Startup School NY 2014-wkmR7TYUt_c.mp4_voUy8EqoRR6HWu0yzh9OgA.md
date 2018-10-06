@@ -1,20 +1,19 @@
 **Apoorva Mehta at Startup School NY 2014-wkmR7TYUt\_c.mp4**
 
-\[00:00:00\] Insert the card CEO a poor of a Matassa started out with a
+\[00:00:00\] Instacard CEO a poor of a Matassa started out with a
 company that offered something pretty amazing shopping from stores
 across your city. All in one bag delivered to your home within a few
 hours. So you can have that case of youngling from Costco shipped right
 alongside the organic kale from Whole Foods. And I\'ll just show up and
 very recently they announced a significant 44 million dollar round of
-funding and are bringing in the cart to New York City it\'s here right
+funding and are bringing Instacart to New York City it\'s here right
 now. You can order that said Caille and youngling right here to the
 theater if you so desire. But in the meantime while you\'re planning out
 your recipes please give it up for a vote. Come on out of a.
 
 \[00:00:51\] Hey guys. Thank you so much for having me here. I\'m
 psyched to be here today with you. So as Alexis says My name\'s
-appartement on the founder and CEO of INSA card. So what is in store
-cart into car as a product where you can order your groceries and get
+appartement on the founder and CEO of Instacart. So what is Instacart into car as a product where you can order your groceries and get
 them delivered to your door within 1 hour. What\'s interesting about
 this is how we actually make this happen. Car is entirely a software
 company which means that we don\'t actually have any warehouses no
@@ -25,7 +24,7 @@ Safeway and many others and bring them to your door within 1 hour.
 We\'ve been around for two years now and we have raised over 55 million
 dollars in financing. And today we\'re doing over hundreds of thousands
 of dollars in revenue every single day. Today I would like to share with
-you the story of INSA card. Hopefully there are some lessons here that
+you the story of Instacart. Hopefully there are some lessons here that
 could be useful to you in your journey. The story of Finster card begins
 two years before I started the company I used to live in Seattle and I
 worked at Amazona at the time and I always wanted to start a company but
@@ -107,12 +106,12 @@ But one thing that all of us had to do every single week we were still
 doing in the most inefficient means possible. I had felt this pain for
 as long as I could remember so I knew exactly what I needed to build in
 the spring of 2012. I started to write the code for the first version of
-in-store cart. And I promised myself that I would not go to the grocery
+Instacart. And I promised myself that I would not go to the grocery
 store until the product was ready laughter.
 
-\[00:08:54\] And on June 2nd 2012. I placed my first order on insta card
+\[00:08:54\] And on June 2nd 2012. I placed my first order on Instacart
 and then of course I went to the grocery store picked up my groceries
-and delivered them to myself. Laughter is the cart was already a
+and delivered them to myself. Laughter Instacart was already a
 profitable business. Laughter.
 
 \[00:09:12\] This is the first version of instict I realized something
@@ -124,8 +123,8 @@ slight problem.
 
 \[00:09:37\] The application deadline had passed two months ago.
 
-\[00:09:43\] But somehow I knew that if the if the Y SI partners
-experienced insta card they would have to let me in. So I contacted all
+\[00:09:43\] But somehow I knew that if the if the YC partners
+experienced Instacart they would have to let me in. So I contacted all
 the NYC alumni that I had in my network for introductions to the
 partners and in the next 24 hours I started to get those introductions.
 Now all I had to do was wait. One by one all the responses started to
@@ -191,7 +190,7 @@ convenient I\'m going to do this every week. Laughter.
 
 \[00:14:22\] Laughter.
 
-\[00:14:26\] In the early days of insta cart most of the customers that
+\[00:14:26\] In the early days of Instacart most of the customers that
 we had were were white founders and this was great because getting
 getting feedback was very easy. Every time they were just placed an
 order I would give them a call and ask them what they thought. And this
@@ -214,7 +213,7 @@ agitated. He said I ordered ten bananas onions to car and your shopper
 brought me ten bushels of bananas. What do you think this is a zoo
 laughter.
 
-\[00:15:38\] Turns out that the picture on insta card for that for that
+\[00:15:38\] Turns out that the picture on Instacart for that for that
 item was a bushel of bananas and so there was some confusion between
 what the customer had ordered and with the shopper thought the customer
 ordered. So we ended up sending Dan a banana bread recipe and he was
@@ -226,12 +225,12 @@ that this is one of the biggest competitive advantages that a startup
 has or a larger company because there\'s no way that the larger company
 would be doing those things unscalable. And the idea is that once your
 product has demand you can figure out how to scale your product. We took
-this advice to heart when in the early days of insta card you could
+this advice to heart when in the early days of Instacart you could
 place orders on on our service without there being any shoppers to
 fulfill those orders. Of course this meant that I would drop everything
 I was doing and fulfill the order myself. Now I don\'t have a car and
 getting a cab in San Francisco is next to impossible. So in the early
-days of INSA cart there was a high likelihood that when you would place
+days of Instacart there was a high likelihood that when you would place
 an order the order would arrive in the luxury of a Uber Black Car.
 
 \[00:17:02\] Laughter.
@@ -259,9 +258,9 @@ time so definitely by no means is it a rocket ship.
 our approach towards unscalable unscalable doing things did not change
 and only thing that mattered to us was how fast we were growing and how
 fast we were executing. One example of this was when we decided to add
-Trader Joes to insta cards offering when we had a store and store card.
+Trader Joes to Instacarts offering when we had a store and store card.
 The first thing we have to do is find the items that are available in
-the store and get that catalog and put them to insta card dot com or
+the store and get that catalog and put them to Instacart dot com or
 tabs. Now there was no API or website which had the item catalog for it
 for Trader Joe\'s so the only way we could actually get all the item
 information was to buy one of every single item at Trader Joe\'s take it
