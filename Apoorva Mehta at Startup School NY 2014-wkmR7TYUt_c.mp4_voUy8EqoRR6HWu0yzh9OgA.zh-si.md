@@ -2,23 +2,22 @@
 
 *2014年纽约创业学校的Apoorva Mehta-wkmR7TYUt\_c.mp4*
 
-\[00:00:00\] Insert the card CEO a poor of a Matassa started out with a
+\[00:00:00\] Instacard CEO a poor of a Matassa started out with a
 company that offered something pretty amazing shopping from stores
 across your city. All in one bag delivered to your home within a few
 hours. So you can have that case of youngling from Costco shipped right
 alongside the organic kale from Whole Foods. And I\'ll just show up and
 very recently they announced a significant 44 million dollar round of
-funding and are bringing in the cart to New York City it\'s here right
+funding and are bringing Instacart to New York City it\'s here right
 now. You can order that said Caille and youngling right here to the
 theater if you so desire. But in the meantime while you\'re planning out
 your recipes please give it up for a vote. Come on out of a.
 
-[00：00：00]插入卡上的首席执行官-一个可怜的马塔萨人-一家公司从你所在城市的商店里提供了非常棒的购物服务。几个小时内全部装在一个袋子里送到你家。所以你可以把从Costco运来的小孩和全食公司的有机甘蓝一起运过来。我会出现的，最近他们宣布了一笔4400万美元的资金，并把购物车搬到了纽约市，它现在就在这里。如果你愿意的话，你可以在这里点菜。但是在你计划你的菜谱的时候，请放弃它去投票。来吧。
+[00：00]英斯塔德的首席执行官，一位可怜的马塔萨人，刚开始时是一家公司，从你所在城市的商店里提供了非常棒的购物服务。几个小时内全部装在一个袋子里送到你家。所以你可以把从Costco运来的小孩和全食公司的有机甘蓝一起运过来。我就会现身，最近他们宣布了一笔4400万美元的巨额资金，并将Instraart带到纽约市，它现在就在这里。如果你愿意的话，你可以点一份上面写着Caille和年轻人就在这里的剧院。但是在你计划食谱的同时，请放弃它进行投票。来吧。
 
 \[00:00:51\] Hey guys. Thank you so much for having me here. I\'m
 psyched to be here today with you. So as Alexis says My name\'s
-appartement on the founder and CEO of INSA card. So what is in store
-cart into car as a product where you can order your groceries and get
+appartement on the founder and CEO of Instacart. So what is Instacart into car as a product where you can order your groceries and get
 them delivered to your door within 1 hour. What\'s interesting about
 this is how we actually make this happen. Car is entirely a software
 company which means that we don\'t actually have any warehouses no
@@ -29,7 +28,7 @@ Safeway and many others and bring them to your door within 1 hour.
 We\'ve been around for two years now and we have raised over 55 million
 dollars in financing. And today we\'re doing over hundreds of thousands
 of dollars in revenue every single day. Today I would like to share with
-you the story of INSA card. Hopefully there are some lessons here that
+you the story of Instacart. Hopefully there are some lessons here that
 could be useful to you in your journey. The story of Finster card begins
 two years before I started the company I used to live in Seattle and I
 worked at Amazona at the time and I always wanted to start a company but
@@ -64,7 +63,7 @@ wasn\'t a very difficult decision. Laughter. I packed my bags told my
 friends goodbye and moved to San Francisco a city where all I knew were
 two people.
 
-[00：00：51]嘿，伙计们。谢谢你让我来这里。我很高兴今天能和你在一起。因此，正如亚历克西斯所说，INSA卡的创始人和首席执行官上有我的名字。那么，商店里的购物车作为一种产品，你可以在1小时内订购你的杂货，然后把它们送到你的门口。有趣的是我们是如何实现这一目标的。Car完全是一家软件公司，这意味着我们实际上没有仓库，没有卡车，我们也没有任何库存。所以，当你订购你的杂货时，我们的网络中有成千上万的个人购物者。从全食、Costco、Safeway等商店拿起你的杂货，并在1小时内送到你的门口。我们已经存在两年了，我们已经筹集了超过5500万美元的资金。今天，我们每天的收入超过了几十万美元。今天我想和大家分享INSA卡的故事。希望这里有一些经验教训，可以对你的旅程有所帮助。Finster卡的故事开始于我创办公司的两年前，当时我住在西雅图，我在亚马逊工作，我一直想创办一家公司，但直到2010年1月这件事才变得严肃起来。我意识到，我在亚马逊(Amazon)的学习正处于停滞状态，我对那里缓慢而官僚主义的环境感到厌倦。所以我知道我必须做出改变才能开始。我开始去西雅图的铸造厂见面，每周他们都会有这些企业家来做一次演讲，这很棒，但我意识到每次他们都会谈论诸如可转换票据与A系列或天使sv之类的话题。对CS和终端消费者。老实说，如果你说的是企业，我根本不知道他们在跟我说什么。我以为我们说的是一家租车公司，所以考虑到这一点，我知道我还有很多事情要做。我全神贯注于此。我开始和尽可能多的创始人交谈。我开始与尽可能多的投资者交谈，并开始阅读尽可能多的关于初创公司的书籍。我也开始在业余时间提出和发展想法，这是很有趣的，尽管我喜欢我在亚马逊的工作。我期待着回家工作的想法。甚至在工作的一天里，我都在研究我的想法。很快，我的同事们开始注意到有些地方不对劲。我是亚马逊的后端物流工程师。所以我的同事会一直好奇为什么我总是在电脑上打开X代码。所以我知道我对我的同事不公平，所以我决定辞职，全天专注于我的想法。事实上，今天是我辞去亚马逊工作的四周年纪念日。当时我很害怕和不确定，但现在我知道这是我一生中做过的最好的决定。在放弃亚马逊之后，我决定是留在西雅图还是搬到旧金山。Ligia说这不是一个非常困难的决定。笑声。我收拾好行李，跟朋友们道别，搬到了旧金山，那里我只知道两个人。
+[00：00：51]嘿，伙计们。谢谢你让我来这里。我很高兴今天能和你在一起。因此，正如亚历克西斯所说，我的名字是Inascart创始人和首席执行官的名字。那么，作为一种产品，您可以在车中订购食品杂货，并在1小时内将其送到您的门口。有趣的是我们是如何实现这一目标的。Car完全是一家软件公司，这意味着我们实际上没有仓库，没有卡车，我们也没有任何库存。所以，当你订购你的杂货时，我们的网络中有成千上万的个人购物者。从全食、Costco、Safeway等商店拿起你的杂货，并在1小时内送到你的门口。我们已经存在两年了，我们已经筹集了超过5500万美元的资金。今天，我们每天的收入超过了几十万美元。今天，我想和大家分享一下英斯塔特的故事。希望这里有一些经验教训，可以对你的旅程有所帮助。Finster卡的故事开始于我创办公司的两年前，当时我住在西雅图，我在亚马逊工作，我一直想创办一家公司，但直到2010年1月这件事才变得严肃起来。我意识到，我在亚马逊(Amazon)的学习正处于停滞状态，我对那里缓慢而官僚主义的环境感到厌倦。所以我知道我必须做出改变才能开始。我开始去西雅图的铸造厂见面，每周他们都会有这些企业家来做一次演讲，这很棒，但我意识到每次他们都会谈论诸如可转换票据与A系列或天使sv之类的话题。对CS和终端消费者。老实说，如果你说的是企业，我根本不知道他们在跟我说什么。我以为我们说的是一家租车公司，所以考虑到这一点，我知道我还有很多事情要做。我全神贯注于此。我开始和尽可能多的创始人交谈。我开始与尽可能多的投资者交谈，并开始阅读尽可能多的关于初创公司的书籍。我也开始在业余时间提出和发展想法，这是很有趣的，尽管我喜欢我在亚马逊的工作。我期待着回家工作的想法。甚至在工作的一天里，我都在研究我的想法。很快，我的同事们开始注意到有些地方不对劲。我是亚马逊的后端物流工程师。所以我的同事会一直好奇为什么我总是在电脑上打开X代码。所以我知道我对我的同事不公平，所以我决定辞职，全天专注于我的想法。事实上，今天是我辞去亚马逊工作的四周年纪念日。当时我很害怕和不确定，但现在我知道这是我一生中做过的最好的决定。在放弃亚马逊之后，我决定是留在西雅图还是搬到旧金山。Ligia说这不是一个非常困难的决定。笑声。我收拾好行李，跟朋友们道别，搬到了旧金山，那里我只知道两个人。
 
 \[00:04:46\] Lucky for me those two people also had a couch.
 
@@ -115,17 +114,17 @@ But one thing that all of us had to do every single week we were still
 doing in the most inefficient means possible. I had felt this pain for
 as long as I could remember so I knew exactly what I needed to build in
 the spring of 2012. I started to write the code for the first version of
-in-store cart. And I promised myself that I would not go to the grocery
+Instacart. And I promised myself that I would not go to the grocery
 store until the product was ready laughter.
 
-[00：04：52]在我搬到旧金山后，我找到了一位联合创始人，我们开始工作了。我们对一个特定的垂直或市场并不挑剔，所以我们对我们想尝试的想法非常灵活。有一周，我们会为广告商做一些类似分析平台的工作。再过一周，我们会为食物做Groupon，每一种产品，我们都会努力吸引顾客，而在这个时候，我们肯定已经生产了大约20种产品。但结果总是相同的失败的产品，一个又一个失败的产品。大约12个月后，离开亚马逊，从事如此多不同的产品，并不断失败，这开始影响到我。此时，我们开始质疑，放弃亚马逊对我来说是否是正确的决定，创业精神对我来说是否真的是正确的决定。大约在那个时候，我们一直在集思广益地讨论这个想法，我们认为值得一试。这个想法本身就是一个律师的社交网络。并且是一种产品，让律师能够相互联系，分享文章和有趣的意见。我记得当时我认为这个想法很棒，在经历了所有这些失败之后，我想我们可能忽略了一件事，那就是我们对律师一无所知。我们以前从来没有和律师合作过，所以我们正在为人们设计一种产品，我们对解决一个我们不知道的问题知之甚少。在建立了产品、组建了团队、筹集了资金并尽可能多地与律师交谈之后，我终于意识到这是一个多么糟糕的想法。律师不喜欢科技，律师不喜欢分享，最重要的是，律师们特别不喜欢有人试图让他们注册一项服务，因为他们根本就不需要这样的服务。经过一年的迭代和转向这个产品，我意识到这只是又一次的失败添加到列表中。我告诉我的联合创始人，我们需要分开，我放弃了我自己的创业。我在这里学到了一个非常重要的教训，那就是创办一家公司的理由永远不应该是创办一家公司。创建一家公司的原因应该是为了解决一个你真正关心的问题，而联系律师绝对不是我关心的问题。据我所知，有一件事一直伴随着我，那就是杂货店购物带来的痛苦，这是我真正关心的问题，我害怕一旦你到了那里，我就会去杂货店。你必须绕着走道走进去，才能找到你要找的东西。你必须排队结账，然后把你的杂货搬回你的公寓，结果却发现你忘了商店里的一些东西。这是2012年，我们在网上购买了从书包到书籍到大屏幕电视的所有东西。但是，我们每个星期都必须做的一件事，我们仍然在以最低效的方式去做。从我记忆中的那一刻起，我就感受到了这种痛苦，所以我清楚地知道我需要在2012年春天建造什么。我开始为商店购物车的第一个版本编写代码。我向自己保证，在产品准备好之前，我不会去杂货店。
+[00：04：52]在我搬到旧金山后，我找到了一位联合创始人，我们开始工作了。我们对一个特定的垂直或市场并不挑剔，所以我们对我们想尝试的想法非常灵活。有一周，我们会为广告商做一些类似分析平台的工作。再过一周，我们会为食物做Groupon，每一种产品，我们都会努力吸引顾客，而在这个时候，我们肯定已经生产了大约20种产品。但结果总是相同的失败的产品，一个又一个失败的产品。大约12个月后，离开亚马逊，从事如此多不同的产品，并不断失败，这开始影响到我。此时，我们开始质疑，放弃亚马逊对我来说是否是正确的决定，创业精神对我来说是否真的是正确的决定。大约在那个时候，我们一直在集思广益地讨论这个想法，我们认为值得一试。这个想法本身就是一个律师的社交网络。并且是一种产品，让律师能够相互联系，分享文章和有趣的意见。我记得当时我认为这个想法很棒，在经历了所有这些失败之后，我想我们可能忽略了一件事，那就是我们对律师一无所知。我们以前从来没有和律师合作过，所以我们正在为人们设计一种产品，我们对解决一个我们不知道的问题知之甚少。在建立了产品、组建了团队、筹集了资金并尽可能多地与律师交谈之后，我终于意识到这是一个多么糟糕的想法。律师不喜欢科技，律师不喜欢分享，最重要的是，律师们特别不喜欢有人试图让他们注册一项服务，因为他们根本就不需要这样的服务。经过一年的迭代和转向这个产品，我意识到这只是又一次的失败添加到列表中。我告诉我的联合创始人，我们需要分开，我放弃了我自己的创业。我在这里学到了一个非常重要的教训，那就是创办一家公司的理由永远不应该是创办一家公司。创建一家公司的原因应该是为了解决一个你真正关心的问题，而联系律师绝对不是我关心的问题。据我所知，有一件事一直伴随着我，那就是杂货店购物带来的痛苦，这是我真正关心的问题，我害怕一旦你到了那里，我就会去杂货店。你必须绕着走道走进去，才能找到你要找的东西。你必须排队结账，然后把你的杂货搬回你的公寓，结果却发现你忘了商店里的一些东西。这是2012年，我们在网上购买了从书包到书籍到大屏幕电视的所有东西。但是，我们每个星期都必须做的一件事，我们仍然在以最低效的方式去做。从我记忆中的那一刻起，我就感受到了这种痛苦，所以我清楚地知道我需要在2012年春天建造什么。我开始为Instraart的第一个版本编写代码。我向自己保证，在产品准备好之前，我不会去杂货店。
 
-\[00:08:54\] And on June 2nd 2012. I placed my first order on insta card
+\[00:08:54\] And on June 2nd 2012. I placed my first order on Instacart
 and then of course I went to the grocery store picked up my groceries
-and delivered them to myself. Laughter is the cart was already a
+and delivered them to myself. Laughter Instacart was already a
 profitable business. Laughter.
 
-[00：08：54]和2012年6月2日。我先点了一张卡片，然后我当然去了杂货店，拿起我的杂货，然后把它们送到我自己手中。笑是一辆手推车已经是一项有利可图的生意了。笑声。
+[00：08：54]和2012年6月2日。我第一次点了英斯塔，然后我当然去了杂货店，拿起我的杂货，然后把它们送到我自己手中。笑声已经是一项有利可图的生意了。笑声。
 
 \[00:09:12\] This is the first version of instict I realized something
 very interesting here which was that my friends were using insta car as
@@ -140,14 +139,14 @@ slight problem.
 
 [00：09：37]申请截止日期两个月前已经过了。
 
-\[00:09:43\] But somehow I knew that if the if the Y SI partners
-experienced insta card they would have to let me in. So I contacted all
+\[00:09:43\] But somehow I knew that if the if the YC partners
+experienced Instacart they would have to let me in. So I contacted all
 the NYC alumni that I had in my network for introductions to the
 partners and in the next 24 hours I started to get those introductions.
 Now all I had to do was wait. One by one all the responses started to
 come in there and the answers were always the same.
 
-[00：09：43]但不知怎的，我知道，如果Y SI合伙人经历了Insta卡，他们就必须让我进去。所以我联系了我网络上所有的纽约校友，向他们介绍合作伙伴，在接下来的24小时里，我开始得到这些介绍。现在我要做的就是等待。所有的回答一个接一个地出现在那里，答案总是一样的。
+[00：09：43]但不知怎的，我知道如果YC的合伙人经历了英斯塔，他们就必须让我进去。所以我联系了我网络上所有的纽约校友，向他们介绍合作伙伴，在接下来的24小时里，我开始得到这些介绍。现在我要做的就是等待。所有的回答一个接一个地出现在那里，答案总是一样的。
 
 \[00:10:14\] No way. It\'s too late.
 
@@ -225,13 +224,13 @@ convenient I\'m going to do this every week. Laughter.
 
 [00：14：22]笑声。
 
-\[00:14:26\] In the early days of insta cart most of the customers that
+\[00:14:26\] In the early days of Instacart most of the customers that
 we had were were white founders and this was great because getting
 getting feedback was very easy. Every time they were just placed an
 order I would give them a call and ask them what they thought. And this
 allowed me to iterate on the product very very quickly.
 
-[00：14：26]在Insta购物车的早期，我们所拥有的大多数客户都是白人创始人，这很好，因为获得反馈很容易。每次他们刚下订单，我就给他们打个电话，问他们怎么想。这使得我可以非常快地迭代产品。
+[00：14：26]在Inascart的早期，我们的大多数客户都是白人创始人，这很好，因为获得反馈很容易。每次他们刚下订单，我就给他们打个电话，问他们怎么想。这使得我可以非常快地迭代产品。
 
 \[00:14:44\] One of the first orders that we had was from Dan another
 wise founder.
@@ -258,13 +257,13 @@ laughter.
 
 [00：15：20]30秒后，他回答说，他非常激动。他说我叫了十个香蕉洋葱到车上，你的购物者给我买了十蒲式耳的香蕉。你觉得这是动物园的笑声吗？
 
-\[00:15:38\] Turns out that the picture on insta card for that for that
+\[00:15:38\] Turns out that the picture on Instacart for that for that
 item was a bushel of bananas and so there was some confusion between
 what the customer had ordered and with the shopper thought the customer
 ordered. So we ended up sending Dan a banana bread recipe and he was
 fine.
 
-[00：15：38]原来那件物品的卡片上画的是一蒲式耳的香蕉，所以顾客点的东西和顾客点的东西有一些混淆。所以我们给丹送了一份香蕉面包配方，他很好。
+[00：15：38]原来那件物品的照片是一蒲式耳的香蕉，所以顾客点的东西和顾客点的东西有一些混淆。所以我们给丹送了一份香蕉面包配方，他很好。
 
 \[00:15:55\] Laughter Why see encourages startups to do things
 unscalable me at the beginning and this is extremely important. I find
@@ -272,15 +271,15 @@ that this is one of the biggest competitive advantages that a startup
 has or a larger company because there\'s no way that the larger company
 would be doing those things unscalable. And the idea is that once your
 product has demand you can figure out how to scale your product. We took
-this advice to heart when in the early days of insta card you could
+this advice to heart when in the early days of Instacart you could
 place orders on on our service without there being any shoppers to
 fulfill those orders. Of course this meant that I would drop everything
 I was doing and fulfill the order myself. Now I don\'t have a car and
 getting a cab in San Francisco is next to impossible. So in the early
-days of INSA cart there was a high likelihood that when you would place
+days of Instacart there was a high likelihood that when you would place
 an order the order would arrive in the luxury of a Uber Black Car.
 
-[00：15：55]为什么See在一开始就鼓励创业公司做一些我无法扩展的事情，这是非常重要的。我发现这是创业公司或大公司最大的竞争优势之一，因为大公司不可能做那些无法扩展的事情。这个想法是，一旦你的产品有了需求，你就能想出如何扩大你的产品的规模。我们把这个建议牢记在心，因为在早期的时候，你可以在我们的服务上下订单，而不会有任何购物者来完成这些订单。当然，这意味着我会放弃我所做的一切，亲自完成命令。现在我没有车了，在旧金山打车几乎是不可能的。因此，在INSA手推车的早期，很有可能当你下订单时，订单会以优步(Uber)黑色轿车的价格到达。
+[00：15：55]为什么See在一开始就鼓励创业公司做一些我无法扩展的事情，这是非常重要的。我发现这是创业公司或大公司最大的竞争优势之一，因为大公司不可能做那些无法扩展的事情。这个想法是，一旦你的产品有了需求，你就能想出如何扩大你的产品的规模。我们把这个建议牢记在心，因为在英斯塔卡特的早期，你可以在我们的服务上下订单，而不会有任何购物者来完成这些订单。当然，这意味着我会放弃我所做的一切，亲自完成命令。现在我没有车了，在旧金山打车几乎是不可能的。因此，在Inascart的早期，很有可能当你下订单的时候，订单会以优步(Uber)黑色轿车的价格到达。
 
 \[00:17:02\] Laughter.
 
@@ -313,9 +312,9 @@ time so definitely by no means is it a rocket ship.
 our approach towards unscalable unscalable doing things did not change
 and only thing that mattered to us was how fast we were growing and how
 fast we were executing. One example of this was when we decided to add
-Trader Joes to insta cards offering when we had a store and store card.
+Trader Joes to Instacarts offering when we had a store and store card.
 The first thing we have to do is find the items that are available in
-the store and get that catalog and put them to insta card dot com or
+the store and get that catalog and put them to Instacart dot com or
 tabs. Now there was no API or website which had the item catalog for it
 for Trader Joe\'s so the only way we could actually get all the item
 information was to buy one of every single item at Trader Joe\'s take it
@@ -325,7 +324,7 @@ all the photos all the items being lined up before the before taking the
 picture. And you know many many of you may think this was a fool\'s
 errand but our team ain\'t like kings for the next two weeks.
 
-[00：18：27]即使在培育了种子之后，我们对不可伸缩的行为的做法也没有改变，唯一重要的是我们增长的速度和执行的速度。这方面的一个例子是，当我们有一个商店和商店卡时，我们决定添加TraderJoes来提供卡片。我们必须做的第一件事是找到商店中可用的商品，并获取目录，并将它们安装到卡、点、com或选项卡。现在没有API或网站为Trader Joe提供商品目录，所以我们能够真正获得所有项目信息的唯一方法是在TraderJoe‘s购买每一件物品中的一件，把它带到工作室，拍摄所有这些东西，然后把它们放到我们的目录中。这正是我们所做的。这是所有的照片，在拍照前，所有的物品都排列好了。你知道，你们中的许多人可能会认为这是个愚蠢的差事，但是我们的球队在接下来的两周里不像国王。
+[00：18：27]即使在培育了种子之后，我们对不可伸缩的行为的做法也没有改变，唯一重要的是我们增长的速度和执行的速度。这方面的一个例子是，当我们有一张商店和商店卡时，我们决定将TraderJoes添加到In阅览服务中。我们必须做的第一件事是找到商店中可用的商品，并获取目录，并将它们放到Inascart、com或选项卡上。现在没有API或网站为Trader Joe提供商品目录，所以我们能够真正获得所有项目信息的唯一方法是在TraderJoe‘s购买每一件物品中的一件，把它带到工作室，拍摄所有这些东西，然后把它们放到我们的目录中。这正是我们所做的。这是所有的照片，在拍照前，所有的物品都排列好了。你知道，你们中的许多人可能会认为这是个愚蠢的差事，但是我们的球队在接下来的两周里不像国王。
 
 \[00:19:38\] Laughter.
 
@@ -372,4 +371,3 @@ persist for long enough you may just get lucky. Best of luck.
 
 
 [00：19：41]使用同样的不可伸缩的技术，我们加入了全食，Costco和其他许多商店，我们意识到我们拥有市场上最好的产品。我们成长得太快了，我们的顾客在旧金山弄明白这一点后，喜欢商店里的心。我们决定，是时候把它带到海湾地区以外的一个准确代表美国的城市。所以我们决定在芝加哥启动。令我们惊讶的是，在三周内，我们在海湾地区的交货量超过了33周。然后我们推出了波士顿，波士顿的增长速度甚至超过了芝加哥。然后我们推出了DC，其增长速度甚至超过了波士顿、芝加哥或海湾地区。然后我们继续推出越来越多的城市。今天，我们在美国的10个城市，收入以每周10%的速度增长，20周来一直保持着这样的增长。就我们作为一个公司和一个团队的发展而言，我们现在必须使每件事情都具有可伸缩性，这是非常困难的。我们有客户正在订购两种产品或60种产品。我们有客户代替即时订单或预定订单。他们可能在一天中的任何时候来自海洋的任何地方，然后我们有来自城市任何地方的众包购物者，他们在一天中的任何时候都在工作，而其中一些人的速度更慢，有些人的速度比我们在城市各地的商店更快，他们有不同的选择，不同的库存水平。那么，当你没有仓库，没有卡车，我们没有库存的时候，你是如何创建亚马逊网站的呢？这是一个非常困难的计算机科学和运筹学问题。但我们认为这是一个非常重要的问题需要解决，因为历史上第一次，美国各地的零售商第一次上线。我们的零售商能够为他们的客户提供一小时、两小时和同一天的送货体验，这是历史上他们第一次在没有任何基础设施的情况下做到这一点。现在，我知道这是你想去的地方，也是其中1%的地方，但如果我在旅途中学到了什么，那就是，会有数以百计的失败，希望会有一些成功。因此，如果有一件事我想让你从这次聊天中解脱出来，那就是作为创始人的旅程-一段充满了数百次失败的极其令人兴奋的旅程-但如果你坚持足够长的时间，你可能就会幸运。祝你好运。
-
